@@ -6,6 +6,7 @@ int add_foo(int x, int y){
 }
 
 int sub_foo(int x, int y){
+
    return (x - y);
 }
 
