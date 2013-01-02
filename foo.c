@@ -14,7 +14,7 @@ int mul_foo(int x ,int y){
 
    return (x * y);
 }
-
+//this is first stash
 int main(int argc, char *argv[]){
 
     printf("Hello! World, 2 + 3 = %d, 2 - 3 =%d.\n", add_foo(2,3),sub_foo(2, 3));
