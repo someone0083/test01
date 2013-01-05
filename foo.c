@@ -26,4 +26,4 @@ int main(int argc, char *argv[]){
 
 //Amend, after change
 //From Windows
-
+//Test reset
